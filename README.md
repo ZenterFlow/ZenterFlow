@@ -1,6 +1,8 @@
 # Hi. I'm @ZenterFlow 
 
-![ZenterFlow](ZenterFlo.png)
+<p align="left">
+  <img src="ZenterFlo.png" alt="ZenterFlow" width="50%">
+</p>
 
 ## The New Interface: When AI Agents Learn to Be Human
 
