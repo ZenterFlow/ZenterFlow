@@ -1,5 +1,7 @@
 # Hi. I'm @ZenterFlow 
 
+![ZenterFlow](Zenterflo.png)
+
 ## The New Interface: When AI Agents Learn to Be Human
 
 In a world where technology often creates distance, I'm building bridges. My work focuses on giving AI agents the most fundamentally human capabilities – the ability to build rapport through verbal and non-verbal communication, to interrupt, listen, react, respond, and sometimes even ignore. These aren't just features; they're the essence of what makes communication meaningful.
