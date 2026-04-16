@@ -1,6 +1,6 @@
 # Hi. I'm @ZenterFlow 
 
-![ZenterFlow](https://raw.githubusercontent.com/ZenterFlow/ZenterFlow/Zenterflo.png)
+![ZenterFlow](Zenterflo.png)
 
 ## The New Interface: When AI Agents Learn to Be Human
 
